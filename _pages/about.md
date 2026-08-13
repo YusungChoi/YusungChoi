@@ -30,3 +30,10 @@ I am Yusung Choi, an undergraduate student in Computer Engineering at Pukyong Na
 My research interests include ~
 
 I am currently looking for a research lab to join!
+
+<style>
+  /* add breathing room between the news list and selected publications */
+  .news {
+    margin-bottom: 4rem;
+  }
+</style>
